@@ -1,6 +1,4 @@
-
-
-# GSE19728_Analysis
+# GSE19728 Analysis with coGSEA
 
 #### Author : Maxime Borry
 
